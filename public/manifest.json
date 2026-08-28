@@ -1,0 +1,15 @@
+{
+  "short_name": "VRISTO - Multipurpose Tailwind Dashboard Template",
+  "name": "VRISTO - Multipurpose Tailwind Dashboard Template",
+  "icons": [
+    {
+     
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
+
+
